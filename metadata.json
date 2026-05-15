@@ -1,0 +1,8 @@
+{
+  "name": "Visual Showcase",
+  "description": "An interactive, professional screenshot showcase with layered animations and customizable descriptions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
